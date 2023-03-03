@@ -1,6 +1,6 @@
 # Streamlit + ChatGPT
 
-![alt text](https://github.com/joeychrys/streamlit-chatGPT/blob/master/application_image.jpg?raw=true)
+![alt text](https://github.com/joeychrys/streamlit-chatGPT/blob/master/docs/application_image.jpg?raw=true)
 ## Overview
 
 This is a sample Streamlit application that demonstrates how to use Streamlit as a UI with OpenAI's Chat API.
