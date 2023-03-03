@@ -11,7 +11,7 @@ This application is built using the Streamlit Python library. Streamlit allows y
 1. Clone the repository
 
 ```bash
-git clone https://github.com/username/repo.git
+git clone https://github.com/joeychrys/streamlit-chatGPT.git
 ```
 
 2. Create and activate a new virtual environment
