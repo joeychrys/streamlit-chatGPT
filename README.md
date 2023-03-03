@@ -14,17 +14,17 @@ This application is built using the Streamlit Python library. Streamlit allows y
 git clone https://github.com/joeychrys/streamlit-chatGPT.git
 ```
 
-2. Create and activate a new virtual environment
+2. Create a `.env` file based on the `.env.example` file and add your `OPENAI_API_KEY`.
+
+```bash
+OPENAI_API_KEY=yourapikey
+```
+
+3. Create and activate a new virtual environment
 
 ```bash
 python -m venv env
 source env/bin/activate
-```
-
-3. Install the required packages
-
-```bash
-pip install -r requirements.txt
 ```
 4. Move to project directory
 
@@ -32,7 +32,14 @@ pip install -r requirements.txt
 cd streamlit-chatGPT
 ```
 
-5. Run the Streamlit application
+5. Install the required packages
+
+```bash
+pip install -r requirements.txt
+```
+
+
+6. Run the Streamlit application
 
 ```bash
 streamlit run main.py
