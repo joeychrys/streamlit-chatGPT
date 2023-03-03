@@ -38,7 +38,6 @@ cd streamlit-chatGPT
 pip install -r requirements.txt
 ```
 
-
 6. Run the Streamlit application
 
 ```bash
@@ -47,7 +46,7 @@ streamlit run main.py
 
 ## Usage
 
-Once the application is running, you can interact with it by following the on-screen instructions.
+Once the application is running, you can interact with it by following the on-screen instructions at `http://localhost:8501`
 
 ## Contributing
 
