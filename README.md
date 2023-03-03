@@ -3,7 +3,7 @@
 ![alt text](https://github.com/joeychrys/streamlit-chatGPT/blob/master/application_image.jpg?raw=true)
 ## Overview
 
-This is a sample Streamlit application that demonstrates how to use Streamlit as a UI with openAI Chat API.
+This is a sample Streamlit application that demonstrates how to use Streamlit as a UI with OpenAI's Chat API.
 
 ## Installation
 
@@ -13,7 +13,7 @@ This is a sample Streamlit application that demonstrates how to use Streamlit as
 git clone https://github.com/joeychrys/streamlit-chatGPT.git
 ```
 
-2. Create a `.env` file based on the `.env.example` file and add your `OPENAI_API_KEY`.
+2. Create a `.env` file based on the `.env.example` file and add your `OPENAI_API_KEY`
 
 ```bash
 OPENAI_API_KEY=yourapikey
