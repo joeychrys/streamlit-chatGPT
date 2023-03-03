@@ -1,10 +1,9 @@
 # Streamlit + ChatGPT
 
-This is a sample Streamlit application that demonstrates how to use Streamlit as a UI with openAI Chat API.
-
+![alt text](https://github.com/joeychrys/streamlit-chatGPT/blob/master/application_image.jpg?raw=true)
 ## Overview
 
-This application is built using the Streamlit Python library. Streamlit allows you to build and deploy data applications using simple Python scripts with an intuitive API.
+This is a sample Streamlit application that demonstrates how to use Streamlit as a UI with openAI Chat API.
 
 ## Installation
 
