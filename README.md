@@ -13,7 +13,7 @@ This is a sample Streamlit application that demonstrates how to use Streamlit as
 git clone https://github.com/joeychrys/streamlit-chatGPT.git
 ```
 
-2. Create a `.env` file based on the `.env.example` file and add your `OPENAI_API_KEY`
+2. Create a `.env` file based on the `.env.example` file inside the `src` directory and add your `OPENAI_API_KEY`
 
 ```bash
 OPENAI_API_KEY=yourapikey
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 6. Run the Streamlit application
 
 ```bash
-streamlit run main.py
+streamlit run src/main.py
 ```
 
 ## Usage
